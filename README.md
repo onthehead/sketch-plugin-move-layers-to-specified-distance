@@ -1,4 +1,6 @@
 # Move Layers to Specified Distance Sketch Plugin
+<img src="https://github.com/onthehead/sketch-plugin-move-layers-to-specified-distance/blob/master/img/fig-01.png" alt="Move Layers to Specified Distance"/>
+
 This plugin Move / Duplicate Layers to Specified Distance (Top / Right / Bottom / Left).
 
 <img src="https://github.com/onthehead/sketch-plugin-move-layers-to-specified-distance/blob/master/img/preview.gif" alt="Preview Move Layers to Specified Distance"/>
